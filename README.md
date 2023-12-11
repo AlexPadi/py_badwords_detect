@@ -1,0 +1,1 @@
+# py_badwords_detect
